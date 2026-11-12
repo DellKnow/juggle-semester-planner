@@ -3,3 +3,11 @@
 .env.*
 !.env.example
 OPENAI_API_KEY
+
+# Local evaluation cache and usage database
+results/*.sqlite3
+
+# Python-generated files and virtual environments
+__pycache__/
+*.py[cod]
+.venv/

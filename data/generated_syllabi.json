@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "course": "CSCI 471",
+    "title": "Synthetic assignment 1",
+    "due_date": "2027-09-12",
+    "due_time": "23:59",
+    "syllabus": "CSCI 471, Fall 2027. Synthetic assignment 1 is due September 12, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 1",
+      "due_date": "2027-09-12"
+    }
+  },
+  {
+    "id": 2,
+    "course": "MATH 364",
+    "title": "Synthetic assignment 2",
+    "due_date": "2027-11-26",
+    "due_time": "23:59",
+    "syllabus": "MATH 364, Fall 2027. Synthetic assignment 2 is due November 26, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 2",
+      "due_date": "2027-11-26"
+    }
+  },
+  {
+    "id": 3,
+    "course": "PHYS 345",
+    "title": "Synthetic assignment 3",
+    "due_date": "2027-09-23",
+    "due_time": "23:59",
+    "syllabus": "PHYS 345, Fall 2027. Synthetic assignment 3 is due September 23, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 3",
+      "due_date": "2027-09-23"
+    }
+  },
+  {
+    "id": 4,
+    "course": "PHYS 292",
+    "title": "Synthetic assignment 4",
+    "due_date": "2027-10-27",
+    "due_time": "23:59",
+    "syllabus": "PHYS 292, Fall 2027. Synthetic assignment 4 is due October 27, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 4",
+      "due_date": "2027-10-27"
+    }
+  },
+  {
+    "id": 5,
+    "course": "CSCI 262",
+    "title": "Synthetic assignment 5",
+    "due_date": "2027-11-02",
+    "due_time": "23:59",
+    "syllabus": "CSCI 262, Fall 2027. Synthetic assignment 5 is due November 2, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 5",
+      "due_date": "2027-11-02"
+    }
+  },
+  {
+    "id": 6,
+    "course": "CHEM 480",
+    "title": "Synthetic assignment 6",
+    "due_date": "2027-09-12",
+    "due_time": "23:59",
+    "syllabus": "CHEM 480, Fall 2027. Synthetic assignment 6 is due September 12, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 6",
+      "due_date": "2027-09-12"
+    }
+  },
+  {
+    "id": 7,
+    "course": "MATH 198",
+    "title": "Synthetic assignment 7",
+    "due_date": "2027-11-11",
+    "due_time": "23:59",
+    "syllabus": "MATH 198, Fall 2027. Synthetic assignment 7 is due November 11, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 7",
+      "due_date": "2027-11-11"
+    }
+  },
+  {
+    "id": 8,
+    "course": "CSCI 412",
+    "title": "Synthetic assignment 8",
+    "due_date": "2027-10-04",
+    "due_time": "23:59",
+    "syllabus": "CSCI 412, Fall 2027. Synthetic assignment 8 is due October 4, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 8",
+      "due_date": "2027-10-04"
+    }
+  },
+  {
+    "id": 9,
+    "course": "CSCI 164",
+    "title": "Synthetic assignment 9",
+    "due_date": "2027-09-23",
+    "due_time": "23:59",
+    "syllabus": "CSCI 164, Fall 2027. Synthetic assignment 9 is due September 23, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 9",
+      "due_date": "2027-09-23"
+    }
+  },
+  {
+    "id": 10,
+    "course": "CSCI 497",
+    "title": "Synthetic assignment 10",
+    "due_date": "2027-11-17",
+    "due_time": "23:59",
+    "syllabus": "CSCI 497, Fall 2027. Synthetic assignment 10 is due November 17, 2027 at 11:59 pm.",
+    "annotation": {
+      "title": "Synthetic assignment 10",
+      "due_date": "2027-11-17"
+    }
+  }
+]
